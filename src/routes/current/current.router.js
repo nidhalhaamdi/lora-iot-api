@@ -3,7 +3,7 @@ const express = require('express');
 const {
     httpGetCurrents,
     httpSaveCurrent,
-} = require('../current.controller');
+} = require('./current.controller');
 
 const currentRouter = express.Router();
 
