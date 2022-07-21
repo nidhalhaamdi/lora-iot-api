@@ -2,15 +2,15 @@
 
 #### 0. Install Git and Node.js on your machine
 
-#### 1. Clone the repository
+#### 1. Clone the repository, on your terminal tape:
 ```
 git clone https://github.com/nidhalhaamdi/lora-iot-api.git
 ```
-#### 2. Install dependencies
+#### 2. Install the dependencies
 ```
 npm install
 ```
-#### 6. Run the server
+#### 3. Run the server
 ```
 npm run watch
 ```
